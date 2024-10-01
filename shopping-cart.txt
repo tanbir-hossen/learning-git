@@ -1,5 +1,5 @@
-1) Pineapple
-2) Mango
-3) Lichi
-4) Carrot
-5) Banana
+1) Pineapple - 300
+2) Mango - 600
+3) Lichi -350
+4) Carrot - 150
+5) Banana - 90
