@@ -5,3 +5,4 @@
 5) Banana - 90
 6) Papaya - 120
 7) guava - 60
+8) Cocunat - 100*2
