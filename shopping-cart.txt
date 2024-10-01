@@ -3,3 +3,5 @@
 3) Lichi -350
 4) Carrot - 150
 5) Banana - 90
+6) Papaya - 120
+7) guava - 60
